@@ -1,3 +1,7 @@
+#
+# iqtester.py - Determines your iq rank based on a global population of 7.7 billion.
+#
+
 import numpy
 import scipy.stats
 import time
